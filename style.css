@@ -1,0 +1,42 @@
+
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+.Logo{
+    padding-left: 10%;
+}
+
+#carouselExampleIndicators{
+    padding-top: 10%;
+}
+
+#carouselExampleIndicators{
+    margin-left: 30%;
+    height: 50%;
+    width: 50%;
+}
+.logoText{
+    color: #4E8459;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#loginForm{
+    margin-top: 4rem;
+}
+
+#LibrarianButtons{
+    margin-top: 8rem;
+    margin-bottom: 3rem;
+}
+
+#MemberButtons{
+    margin-top: 16rem;
+    margin-bottom: 3rem;
+}
+
+h5 ,h6{
+    font-family: sans-serif;
+    letter-spacing: 3px;
+}
